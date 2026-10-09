@@ -27,3 +27,7 @@ spring:
     vectorstore:
      pgvector:
        initialize-schema: true
+
+app:
+  document:
+    path: classpath:document/Microsoft Word.pdf
